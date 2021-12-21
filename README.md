@@ -1,0 +1,1 @@
+svelte-wordpress-templates
