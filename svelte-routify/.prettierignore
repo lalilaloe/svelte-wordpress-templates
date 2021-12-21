@@ -1,0 +1,11 @@
+.vscode/
+dist/
+assets/
+builds/
+node_modules/
+rollup.config.js
+main.js
+sw.js
+*.js
+*.html
+*.json

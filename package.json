@@ -1,0 +1,25 @@
+{
+  "name": "svelte-wordpress-templates",
+  "version": "1.0.0",
+  "description": "svelte-wordpress-templates",
+  "main": "wordpress-crawler.js",
+  "type": "module",
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "jsdom": "^19.0.0",
+    "node-fetch": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalilaloe/svelte-wordpress-templates.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lalilaloe/svelte-wordpress-templates/issues"
+  },
+  "homepage": "https://github.com/lalilaloe/svelte-wordpress-templates#readme"
+}

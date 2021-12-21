@@ -1,0 +1,27 @@
+{
+  "background_color": "#f5f5f5",
+  "theme_color": "#ef4a44",
+  "default_locale": "de",
+  "description": "Leistungverhältnis perfekte, langlebige Gestaltungsalternative für schwer zugängliche Gebäudeteile.",
+  "name": "Mammut ® - Pflegeleichte Paneele für Ihr Hause",
+  "short_name": "Mammut ®",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/images/icons-128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/images/logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
